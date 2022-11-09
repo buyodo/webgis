@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "在宅型有料老人ホームあっとほーむ鎌倉", "TEL": "", "URL": "", "ADRESS1": "材木座１－５－４", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5296581, 35.3177108] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉ヒロ病院（新館）", "TEL": "", "URL": "", "ADRESS1": "材木座１－７－２２", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5493973, 35.3130474] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉バンビル", "TEL": "", "URL": "", "ADRESS1": "材木座３－５－１６", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5462977, 35.3099517] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "ビラ・かまくら", "TEL": "", "URL": "", "ADRESS1": "材木座６－８－７", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5516294, 35.3056966] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉消防署", "TEL": "", "URL": "", "ADRESS1": "由比ガ浜４－１－１０", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5294701, 35.3104693] } }
+
+]
+}

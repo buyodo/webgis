@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "NAME": "第一小学校", "TEL": "避難所", "URL": "", "ADDRESS1": "由比ガ浜2-9-55", "ADDRES2": null, "CITY": "鎌倉市", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [139.547816, 35.314281] } },
+
+{ "type": "Feature", "id": 1, "properties": { "NAME": "第二小学校", "TEL": "避難所", "URL": "", "ADDRESS1": "二階堂878", "ADDRES2": null, "CITY": "鎌倉市", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [139.565338, 35.323642] } },
+
+{ "type": "Feature", "id": 1, "properties": { "NAME": "御成小学校", "TEL": "避難所", "URL": "", "ADDRESS1": "御成町19-1", "ADDRES2": null, "CITY": "鎌倉市", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [139.547099, 35.318208] } },
+
+{ "type": "Feature", "id": 1, "properties": { "NAME": "稲村ケ崎小学校", "TEL": "避難所", "URL": "", "ADDRESS1": "極楽寺3-2-3", "ADDRES2": null, "CITY": "鎌倉市", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [139.52814, 35.310822] } },
+
+{ "type": "Feature", "id": 1, "properties": { "NAME": "第一中学校", "TEL": "避難所", "URL": "", "ADDRESS1": "材木座6-19-19", "ADDRES2": null, "CITY": "鎌倉市", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [139.555719, 35.302574] } }
+
+]
+}

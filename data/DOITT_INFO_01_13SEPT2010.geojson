@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "大津橋付近", "TEL": "", "URL": "https://onl.la/st1cbJn", "ADRESS1": "鎌倉市津西一丁目付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.4966675, 35.3119552] } }
+
+]
+}

@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",                                                                                
+"features": [
+{ "type": "Feature", "id": "1", "properties": { "NAME": "鎌倉市十二所", "TEL": "", "URL": "", "ADRESS1": "鎌倉市十二所　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5753919, 35.3255566] } },
+{ "type": "Feature", "id": 2, "properties": { "NAME": "鎌倉市浄明寺", "TEL": "", "URL": "", "ADRESS1": "鎌倉市浄明寺　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5613561, 35.3180993] } },
+{ "type": "Feature", "id": 3, "properties": { "NAME": "鎌倉市二階堂", "TEL": "", "URL": "", "ADRESS1": "鎌倉市二階堂　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5617215, 35.3292189] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市西御門", "TEL": "", "URL": "", "ADRESS1": "鎌倉市西御門　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5564982, 35.3292208] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市雪ノ下", "TEL": "", "URL": "", "ADRESS1": "鎌倉市雪ノ下　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.548736, 35.3248613] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市扇ガ谷", "TEL": "", "URL": "", "ADRESS1": "鎌倉市扇ガ谷　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5443556, 35.3257337] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市小町", "TEL": "", "URL": "", "ADRESS1": "鎌倉市小町　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5510018, 35.3197901] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市大町", "TEL": "", "URL": "", "ADRESS1": "鎌倉市大町　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5551726, 35.3135887] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市材木座", "TEL": "", "URL": "", "ADRESS1": "鎌倉市材木座　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5434016, 35.3076188] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市由比ガ浜", "TEL": "", "URL": "", "ADRESS1": "鎌倉市由比ガ浜　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5402986, 35.3126504] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市御成町", "TEL": "", "URL": "", "ADRESS1": "鎌倉市御成町　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5457947, 35.318752] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市笹目町", "TEL": "", "URL": "", "ADRESS1": "鎌倉市笹目町　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5395032, 35.3168853] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市佐助", "TEL": "", "URL": "", "ADRESS1": "鎌倉市佐助　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5378595, 35.3218808] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市長谷", "TEL": "", "URL": "", "ADRESS1": "鎌倉市長谷　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5280602, 35.3163571] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市坂ノ下", "TEL": "", "URL": "", "ADRESS1": "鎌倉市坂ノ下　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5268763, 35.3070505] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市極楽寺", "TEL": "", "URL": "", "ADRESS1": "鎌倉市極楽寺　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5137441, 35.3070929] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市稲村ガ崎", "TEL": "", "URL": "", "ADRESS1": "鎌倉市稲村ガ崎　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5174054, 35.3073396] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市腰越", "TEL": "", "URL": "", "ADRESS1": "鎌倉市腰越　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.4923785, 35.3139566] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市津", "TEL": "", "URL": "", "ADRESS1": "鎌倉市津　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.492528, 35.3164138] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市西鎌倉", "TEL": "", "URL": "", "ADRESS1": "鎌倉市西鎌倉　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.4965862, 35.3213197] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市七里ガ浜東", "TEL": "", "URL": "", "ADRESS1": "鎌倉市七里ガ浜東　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.512466, 35.3097118] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市津西", "TEL": "", "URL": "", "ADRESS1": "鎌倉市津西　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.494385, 35.3156272] } },
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉市七里ガ浜", "TEL": "", "URL": "", "ADRESS1": "鎌倉市七里ガ浜　付近", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.5051462, 35.3044057] } }
+
+]
+}

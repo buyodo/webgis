@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鎌倉霊園", "TEL": "", "URL": "", "ADRESS1": "十二所512", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.582946, 35.327552] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "鶴岡八幡宮", "TEL": "", "URL": "", "ADRESS1": "雪ノ下2-1-31", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.556427, 35.326112] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "横浜国大附属鎌倉小・中学校", "TEL": "", "URL": "", "ADRESS1": "雪ノ下3-5-10", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.55867, 35.324951] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "源氏山公園", "TEL": "", "URL": "", "ADRESS1": "梶原5-1439", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.54252, 35.327417] } },
+
+{ "type": "Feature", "id": 0, "properties": { "NAME": "葛原岡神社", "TEL": "", "URL": "", "ADRESS1": "梶原5-9-1", "ADDRESS2": null, "CITY": "鎌倉市", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [139.542761, 35.328659] } }
+
+]
+}
