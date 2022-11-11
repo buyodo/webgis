@@ -6,3 +6,7 @@ https://test.buyodo.co.jp/template/webgis1.2/
 
 # webgis1.1
 https://test.buyodo.co.jp/template/webgis1.1/
+
+
+# webgis1.0
+https://test.buyodo.co.jp/template/webgis1/
