@@ -8,6 +8,9 @@ https://test.buyodo.co.jp/template/webgis1.2/
 # webgis1.1
 https://test.buyodo.co.jp/template/webgis1.1/
 
+![スクリーンショット 2022-11-25 120259](https://user-images.githubusercontent.com/35587841/203892091-3402d6a6-4bb8-4111-8283-907ceb528a45.jpg)
+
+
 
 # webgis1.0
 https://test.buyodo.co.jp/template/webgis1/
