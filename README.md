@@ -11,3 +11,7 @@ https://test.buyodo.co.jp/template/webgis1.1/
 
 # webgis1.0
 https://test.buyodo.co.jp/template/webgis1/
+
+
+![image](https://user-images.githubusercontent.com/35587841/203889543-2ee09d2c-b62b-4b13-a66b-662409a50d7a.png)
+
