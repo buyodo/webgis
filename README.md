@@ -1,4 +1,7 @@
-# webgis1.2（最新版）
+# webgis1.3（最新版）
+※
+
+# webgis1.2
 https://test.buyodo.co.jp/template/webgis1.2/
 
  
